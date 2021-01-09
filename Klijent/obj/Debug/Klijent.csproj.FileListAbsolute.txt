@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\bin\Debug\Klijent.exe.config
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\bin\Debug\Klijent.exe
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\bin\Debug\Klijent.pdb
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\bin\Debug\Domen.dll
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\bin\Debug\Domen.pdb
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.FrmGlavna.resources
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.Login.resources
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.csproj.CopyComplete
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.exe
+\\Mac\Home\Desktop\Softveri\IgraVesala\Klijent\obj\Debug\Klijent.pdb
